@@ -1,0 +1,11 @@
+*.ipynb
+__pycache__/
+*.pyc
+*.png
+*.vtp
+*.vtu
+*.log
+*.stl
+*.obj
+*.stp
+*.step
